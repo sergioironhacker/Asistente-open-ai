@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 1,
+    "nombre": "Arroz largo",
+    "precio": 6.9,
+    "marca": "Calvo",
+    "cantidadEnStock": 299
+  },
+  {
+    "id": 2,
+    "nombre": "Pechuga de pollo",
+    "precio": 9.07,
+    "marca": "Nestlé",
+    "cantidadEnStock": 355
+  },
+  {
+    "id": 3,
+    "nombre": "Galletas María",
+    "precio": 0.55,
+    "marca": "H&S",
+    "cantidadEnStock": 457
+  },
+  {
+    "id": 4,
+    "nombre": "Arroz largo",
+    "precio": 2.88,
+    "marca": "Lays",
+    "cantidadEnStock": 86
+  },
+  {
+    "id": 5,
+    "nombre": "Agua mineral",
+    "precio": 3.39,
+    "marca": "Gallo",
+    "cantidadEnStock": 124
+  },
+  {
+    "id": 6,
+    "nombre": "Atún en lata",
+    "precio": 5.22,
+    "marca": "Bimbo",
+    "cantidadEnStock": 451
+  },
+  {
+    "id": 7,
+    "nombre": "Leche entera",
+    "precio": 4.22,
+    "marca": "Orlando",
+    "cantidadEnStock": 322
+  },
+  {
+    "id": 8,
+    "nombre": "Manzanas",
+    "precio": 1.88,
+    "marca": "Ariel",
+    "cantidadEnStock": 32
+  },
+  {
+    "id": 9,
+    "nombre": "Queso curado",
+    "precio": 8.93,
+    "marca": "Buitoni",
+    "cantidadEnStock": 279
+  },
+  {
+    "id": 10,
+    "nombre": "Café molido",
+    "precio": 9.6,
+    "marca": "Bimbo",
+    "cantidadEnStock": 423
+  },
+  {
+    "id": 11,
+    "nombre": "Papel higiénico",
+    "precio": 10.0,
+    "marca": "Ariel",
+    "cantidadEnStock": 46
+  },
+  {
+    "id": 12,
+    "nombre": "Zumo de naranja",
+    "precio": 7.64,
+    "marca": "Pascual",
+    "cantidadEnStock": 73
+  },
+  {
+    "id": 13,
+    "nombre": "Leche entera",
+    "precio": 3.89,
+    "marca": "Calvo",
+    "cantidadEnStock": 383
+  },
+  {
+    "id": 14,
+    "nombre": "Arroz largo",
+    "precio": 7.92,
+    "marca": "Ariel",
+    "cantidadEnStock": 189
+  },
+  {
+    "id": 15,
+    "nombre": "Pizza congelada",
+    "precio": 2.35,
+    "marca": "Calvo",
+    "cantidadEnStock": 211
+  },
+  {
+    "id": 16,
+    "nombre": "Sal fina",
+    "precio": 3.21,
+    "marca": "Frutas Juan",
+    "cantidadEnStock": 408
+  },
+  {
+    "id": 17,
+    "nombre": "Chocolate negro",
+    "precio": 6.9,
+    "marca": "Don Simón",
+    "cantidadEnStock": 39
+  },
+  {
+    "id": 18,
+    "nombre": "Pechuga de pollo",
+    "precio": 1.5,
+    "marca": "Buitoni",
+    "cantidadEnStock": 158
+  },
+  {
+    "id": 19,
+    "nombre": "Galletas María",
+    "precio": 7.5,
+    "marca": "Orlando",
+    "cantidadEnStock": 98
+  },
+  {
+    "id": 20,
+    "nombre": "Mermelada",
+    "precio": 2.5,
+    "marca": "El Pastor",
+    "cantidadEnStock": 177
+  },
+  {
+    "id": 21,
+    "nombre": "Galletas María",
+    "precio": 11.81,
+    "marca": "Oral-B",
+    "cantidadEnStock": 171
+  },
+  {
+    "id": 22,
+    "nombre": "Galletas María",
+    "precio": 10.86,
+    "marca": "Salina",
+    "cantidadEnStock": 263
+  },
+  {
+    "id": 23,
+    "nombre": "Patatas fritas",
+    "precio": 5.08,
+    "marca": "Frutas Juan",
+    "cantidadEnStock": 268
+  },
+  {
+    "id": 24,
+    "nombre": "Atún en lata",
+    "precio": 5.8,
+    "marca": "Lays",
+    "cantidadEnStock": 496
+  },
+  {
+    "id": 25,
+    "nombre": "Tomate frito",
+    "precio": 11.07,
+    "marca": "Ariel",
+    "cantidadEnStock": 325
+  },
+  {
+    "id": 26,
+    "nombre": "Cepillo de dientes",
+    "precio": 4.78,
+    "marca": "Scottex",
+    "cantidadEnStock": 419
+  },
+  {
+    "id": 27,
+    "nombre": "Atún en lata",
+    "precio": 5.25,
+    "marca": "Marcilla",
+    "cantidadEnStock": 78
+  },
+  {
+    "id": 28,
+    "nombre": "Gel de baño",
+    "precio": 2.73,
+    "marca": "Don Simón",
+    "cantidadEnStock": 340
+  },
+  {
+    "id": 29,
+    "nombre": "Galletas María",
+    "precio": 6.88,
+    "marca": "Font Vella",
+    "cantidadEnStock": 487
+  },
+  {
+    "id": 30,
+    "nombre": "Pan de molde",
+    "precio": 5.63,
+    "marca": "Mahou",
+    "cantidadEnStock": 425
+  },
+  {
+    "id": 31,
+    "nombre": "Manzanas",
+    "precio": 10.66,
+    "marca": "Oral-B",
+    "cantidadEnStock": 275
+  },
+  {
+    "id": 32,
+    "nombre": "Champú",
+    "precio": 6.7,
+    "marca": "Häagen-Dazs",
+    "cantidadEnStock": 289
+  },
+  {
+    "id": 33,
+    "nombre": "Azúcar blanco",
+    "precio": 7.85,
+    "marca": "Pascual",
+    "cantidadEnStock": 492
+  },
+  {
+    "id": 34,
+    "nombre": "Galletas María",
+    "precio": 1.98,
+    "marca": "Azucarera",
+    "cantidadEnStock": 202
+  },
+  {
+    "id": 35,
+    "nombre": "Café molido",
+    "precio": 8.46,
+    "marca": "Harimsa",
+    "cantidadEnStock": 267
+  },
+  {
+    "id": 36,
+    "nombre": "Helado de vainilla",
+    "precio": 3.88,
+    "marca": "Ariel",
+    "cantidadEnStock": 213
+  },
+  {
+    "id": 37,
+    "nombre": "Helado de vainilla",
+    "precio": 6.09,
+    "marca": "Pascual",
+    "cantidadEnStock": 61
+  },
+  {
+    "id": 38,
+    "nombre": "Pechuga de pollo",
+    "precio": 7.43,
+    "marca": "Carbonell",
+    "cantidadEnStock": 265
+  },
+  {
+    "id": 39,
+    "nombre": "Pizza congelada",
+    "precio": 9.81,
+    "marca": "Ariel",
+    "cantidadEnStock": 281
+  },
+  {
+    "id": 40,
+    "nombre": "Queso curado",
+    "precio": 8.41,
+    "marca": "Fontaneda",
+    "cantidadEnStock": 379
+  },
+  {
+    "id": 41,
+    "nombre": "Zumo de naranja",
+    "precio": 6.66,
+    "marca": "Mahou",
+    "cantidadEnStock": 368
+  },
+  {
+    "id": 42,
+    "nombre": "Espaguetis",
+    "precio": 3.37,
+    "marca": "Font Vella",
+    "cantidadEnStock": 84
+  },
+  {
+    "id": 43,
+    "nombre": "Manzanas",
+    "precio": 11.84,
+    "marca": "Don Simón",
+    "cantidadEnStock": 145
+  },
+  {
+    "id": 44,
+    "nombre": "Cepillo de dientes",
+    "precio": 6.59,
+    "marca": "Pascual",
+    "cantidadEnStock": 21
+  },
+  {
+    "id": 45,
+    "nombre": "Agua mineral",
+    "precio": 9.26,
+    "marca": "Gallo",
+    "cantidadEnStock": 341
+  },
+  {
+    "id": 46,
+    "nombre": "Cerveza lata",
+    "precio": 2.12,
+    "marca": "Don Simón",
+    "cantidadEnStock": 436
+  },
+  {
+    "id": 47,
+    "nombre": "Cerveza lata",
+    "precio": 11.67,
+    "marca": "Salina",
+    "cantidadEnStock": 433
+  },
+  {
+    "id": 48,
+    "nombre": "Pan de molde",
+    "precio": 6.56,
+    "marca": "H&S",
+    "cantidadEnStock": 271
+  },
+  {
+    "id": 49,
+    "nombre": "Helado de vainilla",
+    "precio": 1.97,
+    "marca": "Häagen-Dazs",
+    "cantidadEnStock": 329
+  },
+  {
+    "id": 50,
+    "nombre": "Galletas María",
+    "precio": 9.19,
+    "marca": "Lays",
+    "cantidadEnStock": 226
+  },
+  {
+    "id": 51,
+    "nombre": "Chocolate negro",
+    "precio": 9.15,
+    "marca": "Azucarera",
+    "cantidadEnStock": 488
+  },
+  {
+    "id": 52,
+    "nombre": "Huevos camperos",
+    "precio": 4.89,
+    "marca": "Oral-B",
+    "cantidadEnStock": 29
+  },
+  {
+    "id": 53,
+    "nombre": "Mermelada",
+    "precio": 10.84,
+    "marca": "Marcilla",
+    "cantidadEnStock": 439
+  },
+  {
+    "id": 54,
+    "nombre": "Leche entera",
+    "precio": 11.19,
+    "marca": "Scottex",
+    "cantidadEnStock": 31
+  },
+  {
+    "id": 55,
+    "nombre": "Manzanas",
+    "precio": 2.05,
+    "marca": "Magno",
+    "cantidadEnStock": 249
+  },
+  {
+    "id": 56,
+    "nombre": "Papel higiénico",
+    "precio": 1.31,
+    "marca": "H&S",
+    "cantidadEnStock": 231
+  },
+  {
+    "id": 57,
+    "nombre": "Pizza congelada",
+    "precio": 2.29,
+    "marca": "Frutas Juan",
+    "cantidadEnStock": 419
+  },
+  {
+    "id": 58,
+    "nombre": "Espaguetis",
+    "precio": 6.07,
+    "marca": "Hero",
+    "cantidadEnStock": 239
+  },
+  {
+    "id": 59,
+    "nombre": "Yogur natural",
+    "precio": 1.98,
+    "marca": "Häagen-Dazs",
+    "cantidadEnStock": 492
+  },
+  {
+    "id": 60,
+    "nombre": "Atún en lata",
+    "precio": 2.29,
+    "marca": "Buitoni",
+    "cantidadEnStock": 172
+  },
+  {
+    "id": 61,
+    "nombre": "Helado de vainilla",
+    "precio": 3.41,
+    "marca": "Azucarera",
+    "cantidadEnStock": 302
+  },
+  {
+    "id": 62,
+    "nombre": "Atún en lata",
+    "precio": 8.09,
+    "marca": "Pascual",
+    "cantidadEnStock": 406
+  },
+  {
+    "id": 63,
+    "nombre": "Cepillo de dientes",
+    "precio": 2.11,
+    "marca": "Bimbo",
+    "cantidadEnStock": 461
+  },
+  {
+    "id": 64,
+    "nombre": "Pechuga de pollo",
+    "precio": 1.17,
+    "marca": "Scottex",
+    "cantidadEnStock": 363
+  },
+  {
+    "id": 65,
+    "nombre": "Manzanas",
+    "precio": 3.47,
+    "marca": "Calvo",
+    "cantidadEnStock": 314
+  },
+  {
+    "id": 66,
+    "nombre": "Manzanas",
+    "precio": 10.19,
+    "marca": "Orlando",
+    "cantidadEnStock": 202
+  },
+  {
+    "id": 67,
+    "nombre": "Café molido",
+    "precio": 5.68,
+    "marca": "Mahou",
+    "cantidadEnStock": 440
+  },
+  {
+    "id": 68,
+    "nombre": "Cerveza lata",
+    "precio": 6.01,
+    "marca": "Orlando",
+    "cantidadEnStock": 452
+  },
+  {
+    "id": 69,
+    "nombre": "Atún en lata",
+    "precio": 9.68,
+    "marca": "Bimbo",
+    "cantidadEnStock": 299
+  },
+  {
+    "id": 70,
+    "nombre": "Pechuga de pollo",
+    "precio": 8.4,
+    "marca": "Gallo",
+    "cantidadEnStock": 159
+  },
+  {
+    "id": 71,
+    "nombre": "Pechuga de pollo",
+    "precio": 11.08,
+    "marca": "El Pastor",
+    "cantidadEnStock": 454
+  },
+  {
+    "id": 72,
+    "nombre": "Tomate frito",
+    "precio": 1.46,
+    "marca": "Scottex",
+    "cantidadEnStock": 43
+  },
+  {
+    "id": 73,
+    "nombre": "Café molido",
+    "precio": 8.21,
+    "marca": "Harimsa",
+    "cantidadEnStock": 301
+  },
+  {
+    "id": 74,
+    "nombre": "Yogur natural",
+    "precio": 6.31,
+    "marca": "H&S",
+    "cantidadEnStock": 126
+  },
+  {
+    "id": 75,
+    "nombre": "Helado de vainilla",
+    "precio": 5.2,
+    "marca": "Oral-B",
+    "cantidadEnStock": 333
+  },
+  {
+    "id": 76,
+    "nombre": "Tomate frito",
+    "precio": 0.91,
+    "marca": "Frutas Juan",
+    "cantidadEnStock": 496
+  },
+  {
+    "id": 77,
+    "nombre": "Tomate frito",
+    "precio": 3.8,
+    "marca": "H&S",
+    "cantidadEnStock": 125
+  },
+  {
+    "id": 78,
+    "nombre": "Patatas fritas",
+    "precio": 4.32,
+    "marca": "Hero",
+    "cantidadEnStock": 401
+  },
+  {
+    "id": 79,
+    "nombre": "Patatas fritas",
+    "precio": 6.69,
+    "marca": "Harimsa",
+    "cantidadEnStock": 230
+  },
+  {
+    "id": 80,
+    "nombre": "Manzanas",
+    "precio": 11.35,
+    "marca": "Pascual",
+    "cantidadEnStock": 155
+  },
+  {
+    "id": 81,
+    "nombre": "Azúcar blanco",
+    "precio": 1.4,
+    "marca": "Pascual",
+    "cantidadEnStock": 162
+  },
+  {
+    "id": 82,
+    "nombre": "Aceite de oliva",
+    "precio": 3.17,
+    "marca": "Carbonell",
+    "cantidadEnStock": 234
+  },
+  {
+    "id": 83,
+    "nombre": "Manzanas",
+    "precio": 9.29,
+    "marca": "Gallo",
+    "cantidadEnStock": 490
+  },
+  {
+    "id": 84,
+    "nombre": "Pizza congelada",
+    "precio": 3.75,
+    "marca": "Font Vella",
+    "cantidadEnStock": 153
+  },
+  {
+    "id": 85,
+    "nombre": "Cerveza lata",
+    "precio": 6.21,
+    "marca": "Salina",
+    "cantidadEnStock": 241
+  },
+  {
+    "id": 86,
+    "nombre": "Pizza congelada",
+    "precio": 5.27,
+    "marca": "Bimbo",
+    "cantidadEnStock": 408
+  },
+  {
+    "id": 87,
+    "nombre": "Cerveza lata",
+    "precio": 3.39,
+    "marca": "SOS",
+    "cantidadEnStock": 497
+  },
+  {
+    "id": 88,
+    "nombre": "Cerveza lata",
+    "precio": 4.08,
+    "marca": "Azucarera",
+    "cantidadEnStock": 179
+  },
+  {
+    "id": 89,
+    "nombre": "Mermelada",
+    "precio": 2.06,
+    "marca": "Orlando",
+    "cantidadEnStock": 449
+  },
+  {
+    "id": 90,
+    "nombre": "Café molido",
+    "precio": 6.66,
+    "marca": "Ariel",
+    "cantidadEnStock": 74
+  },
+  {
+    "id": 91,
+    "nombre": "Cerveza lata",
+    "precio": 11.73,
+    "marca": "Magno",
+    "cantidadEnStock": 385
+  },
+  {
+    "id": 92,
+    "nombre": "Papel higiénico",
+    "precio": 4.23,
+    "marca": "Gallo",
+    "cantidadEnStock": 42
+  },
+  {
+    "id": 93,
+    "nombre": "Gel de baño",
+    "precio": 5.03,
+    "marca": "H&S",
+    "cantidadEnStock": 426
+  },
+  {
+    "id": 94,
+    "nombre": "Café molido",
+    "precio": 4.82,
+    "marca": "Magno",
+    "cantidadEnStock": 55
+  },
+  {
+    "id": 95,
+    "nombre": "Helado de vainilla",
+    "precio": 4.77,
+    "marca": "Harimsa",
+    "cantidadEnStock": 465
+  },
+  {
+    "id": 96,
+    "nombre": "Atún en lata",
+    "precio": 1.05,
+    "marca": "Harimsa",
+    "cantidadEnStock": 113
+  },
+  {
+    "id": 97,
+    "nombre": "Patatas fritas",
+    "precio": 5.19,
+    "marca": "Gallo",
+    "cantidadEnStock": 16
+  },
+  {
+    "id": 98,
+    "nombre": "Papel higiénico",
+    "precio": 0.63,
+    "marca": "El Pastor",
+    "cantidadEnStock": 189
+  },
+  {
+    "id": 99,
+    "nombre": "Champú",
+    "precio": 8.59,
+    "marca": "Ariel",
+    "cantidadEnStock": 352
+  },
+  {
+    "id": 100,
+    "nombre": "Pizza congelada",
+    "precio": 6.88,
+    "marca": "Buitoni",
+    "cantidadEnStock": 60
+  },
+  {
+    "id": 101,
+    "nombre": "Yogur natural",
+    "precio": 1.82,
+    "marca": "Frutas Juan",
+    "cantidadEnStock": 100
+  },
+  {
+    "id": 102,
+    "nombre": "Pizza congelada",
+    "precio": 7.13,
+    "marca": "Gallo",
+    "cantidadEnStock": 476
+  },
+  {
+    "id": 103,
+    "nombre": "Leche entera",
+    "precio": 8.98,
+    "marca": "Nestlé",
+    "cantidadEnStock": 487
+  },
+  {
+    "id": 104,
+    "nombre": "Detergente líquido",
+    "precio": 5.14,
+    "marca": "Magno",
+    "cantidadEnStock": 82
+  },
+  {
+    "id": 105,
+    "nombre": "Arroz largo",
+    "precio": 2.6,
+    "marca": "Corralito",
+    "cantidadEnStock": 447
+  },
+  {
+    "id": 106,
+    "nombre": "Galletas María",
+    "precio": 1.17,
+    "marca": "Fontaneda",
+    "cantidadEnStock": 367
+  },
+  {
+    "id": 107,
+    "nombre": "Agua mineral",
+    "precio": 2.26,
+    "marca": "Lays",
+    "cantidadEnStock": 195
+  },
+  {
+    "id": 108,
+    "nombre": "Detergente líquido",
+    "precio": 5.63,
+    "marca": "Häagen-Dazs",
+    "cantidadEnStock": 59
+  },
+  {
+    "id": 109,
+    "nombre": "Leche entera",
+    "precio": 0.94,
+    "marca": "Avesol",
+    "cantidadEnStock": 128
+  },
+  {
+    "id": 110,
+    "nombre": "Cepillo de dientes",
+    "precio": 7.72,
+    "marca": "Don Simón",
+    "cantidadEnStock": 136
+  },
+  {
+    "id": 111,
+    "nombre": "Huevos camperos",
+    "precio": 7.5,
+    "marca": "Danone",
+    "cantidadEnStock": 283
+  },
+  {
+    "id": 112,
+    "nombre": "Gel de baño",
+    "precio": 6.4,
+    "marca": "Harimsa",
+    "cantidadEnStock": 163
+  },
+  {
+    "id": 113,
+    "nombre": "Champú",
+    "precio": 5.8,
+    "marca": "Carbonell",
+    "cantidadEnStock": 152
+  },
+  {
+    "id": 114,
+    "nombre": "Queso curado",
+    "precio": 7.56,
+    "marca": "Azucarera",
+    "cantidadEnStock": 487
+  },
+  {
+    "id": 115,
+    "nombre": "Sal fina",
+    "precio": 10.26,
+    "marca": "Calvo",
+    "cantidadEnStock": 111
+  },
+  {
+    "id": 116,
+    "nombre": "Leche entera",
+    "precio": 1.88,
+    "marca": "Fontaneda",
+    "cantidadEnStock": 475
+  },
+  {
+    "id": 117,
+    "nombre": "Queso curado",
+    "precio": 0.57,
+    "marca": "Oral-B",
+    "cantidadEnStock": 269
+  },
+  {
+    "id": 118,
+    "nombre": "Yogur natural",
+    "precio": 1.08,
+    "marca": "SOS",
+    "cantidadEnStock": 486
+  },
+  {
+    "id": 119,
+    "nombre": "Papel higiénico",
+    "precio": 7.33,
+    "marca": "Orlando",
+    "cantidadEnStock": 208
+  },
+  {
+    "id": 120,
+    "nombre": "Galletas María",
+    "precio": 6.78,
+    "marca": "Pascual",
+    "cantidadEnStock": 66
+  },
+  {
+    "id": 121,
+    "nombre": "Harina de trigo",
+    "precio": 8.94,
+    "marca": "Buitoni",
+    "cantidadEnStock": 201
+  },
+  {
+    "id": 122,
+    "nombre": "Leche entera",
+    "precio": 11.03,
+    "marca": "Don Simón",
+    "cantidadEnStock": 241
+  },
+  {
+    "id": 123,
+    "nombre": "Zumo de naranja",
+    "precio": 1.0,
+    "marca": "Bimbo",
+    "cantidadEnStock": 19
+  },
+  {
+    "id": 124,
+    "nombre": "Pan de molde",
+    "precio": 6.87,
+    "marca": "Avesol",
+    "cantidadEnStock": 317
+  },
+  {
+    "id": 125,
+    "nombre": "Detergente líquido",
+    "precio": 3.85,
+    "marca": "Buitoni",
+    "cantidadEnStock": 47
+  },
+  {
+    "id": 126,
+    "nombre": "Champú",
+    "precio": 7.18,
+    "marca": "H&S",
+    "cantidadEnStock": 287
+  },
+  {
+    "id": 127,
+    "nombre": "Cepillo de dientes",
+    "precio": 5.28,
+    "marca": "Gallo",
+    "cantidadEnStock": 233
+  },
+  {
+    "id": 128,
+    "nombre": "Gel de baño",
+    "precio": 10.44,
+    "marca": "Frutas Juan",
+    "cantidadEnStock": 231
+  },
+  {
+    "id": 129,
+    "nombre": "Agua mineral",
+    "precio": 4.72,
+    "marca": "Carbonell",
+    "cantidadEnStock": 198
+  },
+  {
+    "id": 130,
+    "nombre": "Tomate frito",
+    "precio": 7.28,
+    "marca": "Buitoni",
+    "cantidadEnStock": 13
+  },
+  {
+    "id": 131,
+    "nombre": "Tomate frito",
+    "precio": 7.93,
+    "marca": "Don Simón",
+    "cantidadEnStock": 165
+  },
+  {
+    "id": 132,
+    "nombre": "Chocolate negro",
+    "precio": 7.86,
+    "marca": "Buitoni",
+    "cantidadEnStock": 279
+  },
+  {
+    "id": 133,
+    "nombre": "Atún en lata",
+    "precio": 3.35,
+    "marca": "Häagen-Dazs",
+    "cantidadEnStock": 396
+  },
+  {
+    "id": 134,
+    "nombre": "Arroz largo",
+    "precio": 11.23,
+    "marca": "Buitoni",
+    "cantidadEnStock": 115
+  },
+  {
+    "id": 135,
+    "nombre": "Manzanas",
+    "precio": 7.09,
+    "marca": "Marcilla",
+    "cantidadEnStock": 337
+  },
+  {
+    "id": 136,
+    "nombre": "Tomate frito",
+    "precio": 11.88,
+    "marca": "Salina",
+    "cantidadEnStock": 105
+  },
+  {
+    "id": 137,
+    "nombre": "Aceite de oliva",
+    "precio": 2.48,
+    "marca": "Mahou",
+    "cantidadEnStock": 306
+  },
+  {
+    "id": 138,
+    "nombre": "Yogur natural",
+    "precio": 9.16,
+    "marca": "Magno",
+    "cantidadEnStock": 307
+  },
+  {
+    "id": 139,
+    "nombre": "Café molido",
+    "precio": 2.53,
+    "marca": "Häagen-Dazs",
+    "cantidadEnStock": 274
+  },
+  {
+    "id": 140,
+    "nombre": "Espaguetis",
+    "precio": 3.7,
+    "marca": "Buitoni",
+    "cantidadEnStock": 198
+  },
+  {
+    "id": 141,
+    "nombre": "Papel higiénico",
+    "precio": 0.55,
+    "marca": "Bimbo",
+    "cantidadEnStock": 408
+  },
+  {
+    "id": 142,
+    "nombre": "Zumo de naranja",
+    "precio": 5.14,
+    "marca": "Calvo",
+    "cantidadEnStock": 154
+  },
+  {
+    "id": 143,
+    "nombre": "Arroz largo",
+    "precio": 7.4,
+    "marca": "Magno",
+    "cantidadEnStock": 211
+  },
+  {
+    "id": 144,
+    "nombre": "Zumo de naranja",
+    "precio": 5.3,
+    "marca": "Fontaneda",
+    "cantidadEnStock": 351
+  },
+  {
+    "id": 145,
+    "nombre": "Yogur natural",
+    "precio": 6.04,
+    "marca": "Scottex",
+    "cantidadEnStock": 409
+  },
+  {
+    "id": 146,
+    "nombre": "Pan de molde",
+    "precio": 2.73,
+    "marca": "Fontaneda",
+    "cantidadEnStock": 157
+  },
+  {
+    "id": 147,
+    "nombre": "Cepillo de dientes",
+    "precio": 11.75,
+    "marca": "Calvo",
+    "cantidadEnStock": 345
+  },
+  {
+    "id": 148,
+    "nombre": "Champú",
+    "precio": 5.52,
+    "marca": "Ariel",
+    "cantidadEnStock": 250
+  },
+  {
+    "id": 149,
+    "nombre": "Harina de trigo",
+    "precio": 1.29,
+    "marca": "Salina",
+    "cantidadEnStock": 50
+  },
+  {
+    "id": 150,
+    "nombre": "Zumo de naranja",
+    "precio": 8.71,
+    "marca": "Fontaneda",
+    "cantidadEnStock": 192
+  },
+  {
+    "id": 151,
+    "nombre": "Champú",
+    "precio": 1.84,
+    "marca": "El Pastor",
+    "cantidadEnStock": 278
+  },
+  {
+    "id": 152,
+    "nombre": "Harina de trigo",
+    "precio": 0.79,
+    "marca": "SOS",
+    "cantidadEnStock": 186
+  },
+  {
+    "id": 153,
+    "nombre": "Mermelada",
+    "precio": 0.86,
+    "marca": "Harimsa",
+    "cantidadEnStock": 385
+  },
+  {
+    "id": 154,
+    "nombre": "Detergente líquido",
+    "precio": 0.61,
+    "marca": "Nestlé",
+    "cantidadEnStock": 421
+  },
+  {
+    "id": 155,
+    "nombre": "Harina de trigo",
+    "precio": 2.51,
+    "marca": "H&S",
+    "cantidadEnStock": 163
+  },
+  {
+    "id": 156,
+    "nombre": "Pechuga de pollo",
+    "precio": 1.95,
+    "marca": "Gallo",
+    "cantidadEnStock": 53
+  },
+  {
+    "id": 157,
+    "nombre": "Tomate frito",
+    "precio": 2.45,
+    "marca": "Font Vella",
+    "cantidadEnStock": 361
+  },
+  {
+    "id": 158,
+    "nombre": "Patatas fritas",
+    "precio": 3.06,
+    "marca": "Avesol",
+    "cantidadEnStock": 37
+  },
+  {
+    "id": 159,
+    "nombre": "Pizza congelada",
+    "precio": 4.51,
+    "marca": "Carbonell",
+    "cantidadEnStock": 49
+  },
+  {
+    "id": 160,
+    "nombre": "Aceite de oliva",
+    "precio": 3.33,
+    "marca": "Pascual",
+    "cantidadEnStock": 145
+  },
+  {
+    "id": 161,
+    "nombre": "Azúcar blanco",
+    "precio": 2.07,
+    "marca": "Scottex",
+    "cantidadEnStock": 495
+  },
+  {
+    "id": 162,
+    "nombre": "Café molido",
+    "precio": 2.64,
+    "marca": "Bimbo",
+    "cantidadEnStock": 62
+  },
+  {
+    "id": 163,
+    "nombre": "Papel higiénico",
+    "precio": 3.91,
+    "marca": "Azucarera",
+    "cantidadEnStock": 253
+  },
+  {
+    "id": 164,
+    "nombre": "Yogur natural",
+    "precio": 11.3,
+    "marca": "Calvo",
+    "cantidadEnStock": 113
+  },
+  {
+    "id": 165,
+    "nombre": "Atún en lata",
+    "precio": 1.07,
+    "marca": "Avesol",
+    "cantidadEnStock": 379
+  },
+  {
+    "id": 166,
+    "nombre": "Cerveza lata",
+    "precio": 9.51,
+    "marca": "Marcilla",
+    "cantidadEnStock": 396
+  },
+  {
+    "id": 167,
+    "nombre": "Azúcar blanco",
+    "precio": 9.19,
+    "marca": "Buitoni",
+    "cantidadEnStock": 184
+  },
+  {
+    "id": 168,
+    "nombre": "Agua mineral",
+    "precio": 10.03,
+    "marca": "Mahou",
+    "cantidadEnStock": 231
+  },
+  {
+    "id": 169,
+    "nombre": "Patatas fritas",
+    "precio": 3.66,
+    "marca": "Corralito",
+    "cantidadEnStock": 287
+  },
+  {
+    "id": 170,
+    "nombre": "Arroz largo",
+    "precio": 8.92,
+    "marca": "Frutas Juan",
+    "cantidadEnStock": 143
+  },
+  {
+    "id": 171,
+    "nombre": "Chocolate negro",
+    "precio": 3.49,
+    "marca": "Buitoni",
+    "cantidadEnStock": 437
+  },
+  {
+    "id": 172,
+    "nombre": "Pechuga de pollo",
+    "precio": 9.15,
+    "marca": "Nestlé",
+    "cantidadEnStock": 219
+  },
+  {
+    "id": 173,
+    "nombre": "Agua mineral",
+    "precio": 3.02,
+    "marca": "Bimbo",
+    "cantidadEnStock": 95
+  },
+  {
+    "id": 174,
+    "nombre": "Atún en lata",
+    "precio": 7.21,
+    "marca": "Scottex",
+    "cantidadEnStock": 315
+  },
+  {
+    "id": 175,
+    "nombre": "Arroz largo",
+    "precio": 9.84,
+    "marca": "Harimsa",
+    "cantidadEnStock": 375
+  },
+  {
+    "id": 176,
+    "nombre": "Pizza congelada",
+    "precio": 9.2,
+    "marca": "Oral-B",
+    "cantidadEnStock": 496
+  },
+  {
+    "id": 177,
+    "nombre": "Agua mineral",
+    "precio": 1.25,
+    "marca": "H&S",
+    "cantidadEnStock": 303
+  },
+  {
+    "id": 178,
+    "nombre": "Chocolate negro",
+    "precio": 6.6,
+    "marca": "Lays",
+    "cantidadEnStock": 104
+  },
+  {
+    "id": 179,
+    "nombre": "Galletas María",
+    "precio": 8.42,
+    "marca": "Häagen-Dazs",
+    "cantidadEnStock": 200
+  },
+  {
+    "id": 180,
+    "nombre": "Agua mineral",
+    "precio": 9.24,
+    "marca": "Scottex",
+    "cantidadEnStock": 175
+  },
+  {
+    "id": 181,
+    "nombre": "Arroz largo",
+    "precio": 3.68,
+    "marca": "Frutas Juan",
+    "cantidadEnStock": 354
+  },
+  {
+    "id": 182,
+    "nombre": "Detergente líquido",
+    "precio": 5.59,
+    "marca": "Carbonell",
+    "cantidadEnStock": 112
+  },
+  {
+    "id": 183,
+    "nombre": "Sal fina",
+    "precio": 9.78,
+    "marca": "Mahou",
+    "cantidadEnStock": 84
+  },
+  {
+    "id": 184,
+    "nombre": "Espaguetis",
+    "precio": 2.84,
+    "marca": "Lays",
+    "cantidadEnStock": 440
+  },
+  {
+    "id": 185,
+    "nombre": "Azúcar blanco",
+    "precio": 9.44,
+    "marca": "Calvo",
+    "cantidadEnStock": 189
+  },
+  {
+    "id": 186,
+    "nombre": "Manzanas",
+    "precio": 2.07,
+    "marca": "Ariel",
+    "cantidadEnStock": 442
+  },
+  {
+    "id": 187,
+    "nombre": "Papel higiénico",
+    "precio": 9.7,
+    "marca": "Pascual",
+    "cantidadEnStock": 26
+  },
+  {
+    "id": 188,
+    "nombre": "Chocolate negro",
+    "precio": 1.38,
+    "marca": "Häagen-Dazs",
+    "cantidadEnStock": 253
+  },
+  {
+    "id": 189,
+    "nombre": "Chocolate negro",
+    "precio": 6.57,
+    "marca": "Lays",
+    "cantidadEnStock": 396
+  },
+  {
+    "id": 190,
+    "nombre": "Azúcar blanco",
+    "precio": 9.34,
+    "marca": "El Pastor",
+    "cantidadEnStock": 228
+  },
+  {
+    "id": 191,
+    "nombre": "Tomate frito",
+    "precio": 2.23,
+    "marca": "Carbonell",
+    "cantidadEnStock": 115
+  },
+  {
+    "id": 192,
+    "nombre": "Champú",
+    "precio": 9.51,
+    "marca": "H&S",
+    "cantidadEnStock": 370
+  },
+  {
+    "id": 193,
+    "nombre": "Champú",
+    "precio": 3.31,
+    "marca": "Salina",
+    "cantidadEnStock": 188
+  },
+  {
+    "id": 194,
+    "nombre": "Espaguetis",
+    "precio": 11.87,
+    "marca": "Calvo",
+    "cantidadEnStock": 195
+  },
+  {
+    "id": 195,
+    "nombre": "Yogur natural",
+    "precio": 8.32,
+    "marca": "Ariel",
+    "cantidadEnStock": 321
+  },
+  {
+    "id": 196,
+    "nombre": "Café molido",
+    "precio": 0.66,
+    "marca": "Scottex",
+    "cantidadEnStock": 376
+  },
+  {
+    "id": 197,
+    "nombre": "Galletas María",
+    "precio": 11.87,
+    "marca": "Ariel",
+    "cantidadEnStock": 259
+  },
+  {
+    "id": 198,
+    "nombre": "Tomate frito",
+    "precio": 2.13,
+    "marca": "Marcilla",
+    "cantidadEnStock": 346
+  },
+  {
+    "id": 199,
+    "nombre": "Champú",
+    "precio": 6.33,
+    "marca": "Gallo",
+    "cantidadEnStock": 25
+  },
+  {
+    "id": 200,
+    "nombre": "Tomate frito",
+    "precio": 3.57,
+    "marca": "Don Simón",
+    "cantidadEnStock": 302
+  }
+]
