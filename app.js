@@ -28,7 +28,7 @@ const context = ` Eres un asistente para un supermercado.
   Solo puedes responder preguntas sobre el negocio, cualquier otra pregunta está prohibida.
   `;
 
-let conversations = {};
+let userThreads = {};
 
 
 
@@ -53,19 +53,28 @@ app.post("/api/chatbot", async (req, res) => {
 
 
 
-  if (!conversations[userId]) {
-    conversations[userId] = [];
-  }
-
-
-  conversations[userId].push({ role: "user", content: message });
 
 
   // peticion al modelo de ia 
 
   try {
 
-    const response = await openai.chat.completions.create({
+
+    if (!userThreads[userId]) {
+      const thread = await openai.beta.threads.create();
+      userThreads[userId] = thread.id;
+
+    }
+
+    const threadId = userThreads[userId];
+
+
+    await openai.beta.threads.messages.create(threadId, {
+      role: "user", content: message
+    });
+
+
+    const myAssistant = await openai.chat.completions.create({
       model: "gpt-3.5-turbo",
       messages: [
         { role: "system", content: context },
@@ -96,7 +105,7 @@ app.post("/api/chatbot", async (req, res) => {
     }
 
     console.log(conversations);
-    
+
 
 
     return res.status(200).json({ reply })
