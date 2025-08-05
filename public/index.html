@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="./assets/css/styles.css" />
+  <script src="./assets/js/main.js" defer></script>
+  <link rel="icon" type="image/png" href="./assets/img/cesta-de-la-compra.png" />
+  <title>Chat de Negocio con OpenAI</title>
+</head>
+
+<body>
+
+  <header class="chat__header">
+    <img class="header__icon" src="./assets/img/cesta-de-la-compra.png" alt="Icono de cesta de la compra" />
+    <h1 class="header__title">Chat de Negocio</h1>
+  </header>
+
+  <section class="chat">
+    <div class="chat__messages"></div>
+
+    <div class="chat__input-group">
+      <input 
+        type="text" 
+        id="inputText" 
+        class="chat__input" 
+        placeholder="¿En qué te puedo ayudar?" 
+        autocomplete="off" 
+      />
+      <button class="chat__button" id="sendButton">Enviar</button>
+    </div>
+  </section>
+
+</body>
+
+</html>
